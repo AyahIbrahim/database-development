@@ -6,24 +6,32 @@ Project Overview
 ## 🛠️ Project Background
 *Beyond Borders*, a chain of five bookstores, is undergoing a digital transformation. Under the leadership of their new CEO, the company is moving towards a centralized "world brain" database. This project forms the backbone of that transformation, laying out the framework to manage essential areas such as:
 
-•	#### Manage book-related details, including inventory and sales.
+• *Books:* Manage book-related details, including inventory and sales.
+
 •	*Sales:* Track and analyze sales transactions across all locations.
+
 •	*Café:* Handle café operations, including menu items and sales.
+
 •	*Staff:* Maintain employee records, shift hours, and payroll data.
 
 ## 🚀 Extra Credit Expansion
 The database also provides the foundation for potential future expansions into areas such as:
 
-•	* Products, Publishers, and Vendors:* Detailed management of suppliers for books, music, movies, and merchandise.
+•	*Products, Publishers, and Vendors:* Detailed management of suppliers for books, music, movies, and merchandise.
+
 •	*Music, Movies, and Merch:* Extend the inventory management system to these categories.
 
 ## 📊 Key Views & Analytics
 To provide actionable insights, the database includes predefined views that offer a comprehensive look at the business:
 
 •	*Store Inventory:* Keep track of the available stock at each store.
+
 •	*Store Sales:* Monitor sales performance on a store-by-store basis.
+
 •	*Company-Wide Sales/Stock Data:* Get an aggregated view of sales and stock levels across all locations.
+
 •	*Employee Hours:* Record and analyze the working hours of employees.
+
 •	*Weekly Store Profits:* Calculate weekly profits for each store by considering sales and staff costs
 
 ## 🪜 Project Structure
