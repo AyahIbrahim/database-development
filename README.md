@@ -13,7 +13,6 @@ Welcome to the **Beyond Borders: Books and More** database project! This reposit
 
 •	**Staff:** Maintain employee records, shift hours, and payroll data.
 
-## 🚀 Extra Credit Expansion
 The database also provides the foundation for potential future expansions into areas such as:
 
 •	**Products, Publishers, and Vendors:** Detailed management of suppliers for books, music, movies, and merchandise.
