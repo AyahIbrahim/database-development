@@ -1,7 +1,6 @@
-# 📚☕🎦🎶 Beyond Borders: Books and More - Database Development
+# 📚☕ Beyond Borders: Books and More - Database Development 🎦🎶
 
 Welcome to the **Beyond Borders: Books and More** database project! This repository showcases the comprehensive work done to create a centralized master database for a fictional chain of bookstores based in California. The goal was to replace the existing vendor-based systems with a robust, scalable solution that covers all key business operations.
-Project Overview
 
 ## 🛠️ Project Background
 **Beyond Borders**, a chain of five bookstores, is undergoing a digital transformation. Under the leadership of their new CEO, the company is moving towards a centralized "world brain" database. This project forms the backbone of that transformation, laying out the framework to manage essential areas such as:
@@ -48,7 +47,7 @@ To provide actionable insights, the database includes predefined views that offe
 • **Documentation:** Detailed steps taken to complete each part of the project, along with challenges faced and solutions implemented.
 
 ## 💡 Challenges & Lessons Learned
-Every project has its hurdles. Here are a few we overcame:
+Every project has its hurdles. Here are a few I overcame:
 
 • **Data Integration Issues:** I had to ensure unique product IDs across categories—books, café items, movies, and music—to prevent data conflicts.
 
