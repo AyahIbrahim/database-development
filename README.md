@@ -1,4 +1,4 @@
-# 📚☕ Beyond Borders: Books and More - Database Development 🎦🎶
+# 🖥️ Beyond Borders: Books and More - Database Development
 
 Welcome to the **Beyond Borders: Books and More** database project! This repository showcases the comprehensive work done to create a centralized master database for a fictional chain of bookstores based in California. The goal was to replace the existing vendor-based systems with a robust, scalable solution that covers all key business operations.
 
