@@ -6,7 +6,7 @@ Project Overview
 ## 🛠️ Project Background
 *Beyond Borders*, a chain of five bookstores, is undergoing a digital transformation. Under the leadership of their new CEO, the company is moving towards a centralized "world brain" database. This project forms the backbone of that transformation, laying out the framework to manage essential areas such as:
 
-•	*Books:* Manage book-related details, including inventory and sales.
+•	#### Manage book-related details, including inventory and sales.
 •	*Sales:* Track and analyze sales transactions across all locations.
 •	*Café:* Handle café operations, including menu items and sales.
 •	*Staff:* Maintain employee records, shift hours, and payroll data.
