@@ -33,9 +33,13 @@ To provide actionable insights, the database includes predefined views that offe
 •	**Weekly Store Profits:** Calculate weekly profits for each store by considering sales and staff costs
 
 ## 🪜 Project Structure
-• **ER Diagram:** Visual representation of entities and their relationships using the [ERDPlus Tool](https://erdplus.com/).
+• **ER Diagram:** a visual representation of the database's structure. It defines the entities (such as Books, Sales, Café, and Staff) and the relationships between them, providing a clear blueprint of how data is organized and interconnected.
+
+Created using the [ERDPlus Tool](https://erdplus.com/).
 
 ![Database ER Diagram](https://github.com/AyahIbrahim/database-development/blob/b54f044e959bdd5d40b926351e673f337554d3bb/Diagrams%20-%20ER%20%26%20Relation%20Schema/ER%20Diagram.png)
+
+• **Relational Schema:** The relational schema translates the conceptual ER diagram into a practical database design. It outlines the tables, columns, and relationships in the database, ensuring that the structure is normalized and optimized for performance. The schema includes primary and foreign keys, as well as constraints, to maintain data integrity and consistency. 
 
 ![Database Relational Schema](https://github.com/AyahIbrahim/database-development/blob/b54f044e959bdd5d40b926351e673f337554d3bb/Diagrams%20-%20ER%20%26%20Relation%20Schema/Relational%20Schema.png)
 
